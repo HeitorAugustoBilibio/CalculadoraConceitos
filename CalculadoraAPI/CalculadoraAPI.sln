@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraAPI", "CalculadoraAPI\CalculadoraAPI.csproj", "{DBFD4854-7C48-435B-9B64-EC0341D51C33}"
 EndProject
@@ -21,7 +21,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra", "Infra\Infra.csproj", "{0C3029BB-ADE1-4A51-9BB0-524CC146C006}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathTest", "MathTest\MathTest.csproj", "{E66F5663-E015-4BF5-8E4A-C8D3A07D784F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{E99137D8-10A0-46DA-8228-0B03146A5359}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,10 +45,10 @@ Global
 		{0C3029BB-ADE1-4A51-9BB0-524CC146C006}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C3029BB-ADE1-4A51-9BB0-524CC146C006}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C3029BB-ADE1-4A51-9BB0-524CC146C006}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E66F5663-E015-4BF5-8E4A-C8D3A07D784F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E66F5663-E015-4BF5-8E4A-C8D3A07D784F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E66F5663-E015-4BF5-8E4A-C8D3A07D784F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E66F5663-E015-4BF5-8E4A-C8D3A07D784F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E99137D8-10A0-46DA-8228-0B03146A5359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E99137D8-10A0-46DA-8228-0B03146A5359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E99137D8-10A0-46DA-8228-0B03146A5359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E99137D8-10A0-46DA-8228-0B03146A5359}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,7 +58,7 @@ Global
 		{01339113-0232-4BEA-AF55-7CB23591C25C} = {7FD74A40-EC3B-459B-9330-9A16CC122A9A}
 		{2C57B140-F634-4917-92CD-5ED08B2046EF} = {8A20BC38-7EA8-403C-9A53-EE8DF6BF6605}
 		{0C3029BB-ADE1-4A51-9BB0-524CC146C006} = {745936B9-792E-4ADE-9833-0E35D3FADF52}
-		{E66F5663-E015-4BF5-8E4A-C8D3A07D784F} = {9898C63F-C3B2-4E66-912B-82D8F33DE51E}
+		{E99137D8-10A0-46DA-8228-0B03146A5359} = {9898C63F-C3B2-4E66-912B-82D8F33DE51E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AEFBFE93-1594-43C4-99F6-6DC8DBB57230}
