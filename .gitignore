@@ -1,0 +1,35 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Cache, banco e índices
+*.db
+*.db-wal
+*.db-shm
+*.vsidx
+*.dtbcache.*
+*.backup.json
+
+# Logs
+*.log
+
+# Configuração local
+*.tmp
+
+# IDEs
+.idea/
+.vscode/
+
+# Dotnet tools
+tools/
+
+# Secretos e variáveis de ambiente
+.env
+.env.*
